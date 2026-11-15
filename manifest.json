@@ -1,0 +1,16 @@
+{
+  "name": "Rapid Roll",
+  "short_name": "Rapid Roll",
+  "description": "Classic Nokia-style Rapid Roll ball game",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1d2b0f",
+  "theme_color": "#1d2b0f",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
